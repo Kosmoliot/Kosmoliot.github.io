@@ -24,7 +24,7 @@ header {
     padding: 5px;
 }
 .container img {
-    max-width: 100%;
+    max-width: 15%;
     height: auto;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
